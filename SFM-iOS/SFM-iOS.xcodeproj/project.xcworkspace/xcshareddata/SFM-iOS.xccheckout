@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A92507C2-3036-41F3-A2D1-02747FCBD140</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SFM-iOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1A35D62B8E6F11FEA7E4ED622F86BEFC04678860</key>
+		<string>https://github.com/Thunderbolt-sx/VisualSFM-iOS.git</string>
+		<key>9CD11B728F18CDF3741F6C6451372059972E3B2E</key>
+		<string>https://github.com/Thunderbolt-sx/Coursera-MachineLearning.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SFM-iOS/SFM-iOS.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1A35D62B8E6F11FEA7E4ED622F86BEFC04678860</key>
+		<string>../../..</string>
+		<key>9CD11B728F18CDF3741F6C6451372059972E3B2E</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Thunderbolt-sx/VisualSFM-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1A35D62B8E6F11FEA7E4ED622F86BEFC04678860</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9CD11B728F18CDF3741F6C6451372059972E3B2E</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1A35D62B8E6F11FEA7E4ED622F86BEFC04678860</string>
+			<key>IDESourceControlWCCName</key>
+			<string>VisualSFM-iOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
